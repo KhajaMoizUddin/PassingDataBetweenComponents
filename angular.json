@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "CompCommunicationPractice"
+    }
+  },
+  "defaultProject": "CompCommunicationPractice",
+  "cli": {
+    "analytics": false
+  }
 }
